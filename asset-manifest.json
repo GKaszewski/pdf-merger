@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pdf-merger/static/css/main.83b5a670.css",
+    "main.js": "/pdf-merger/static/js/main.cc699d95.js",
+    "static/js/498.a23058f7.chunk.js": "/pdf-merger/static/js/498.a23058f7.chunk.js",
+    "static/js/703.fbbad0fd.chunk.js": "/pdf-merger/static/js/703.fbbad0fd.chunk.js",
+    "static/js/528.1beeb1ea.chunk.js": "/pdf-merger/static/js/528.1beeb1ea.chunk.js",
+    "static/js/119.cd3a9e7e.chunk.js": "/pdf-merger/static/js/119.cd3a9e7e.chunk.js",
+    "static/js/787.c9b9565a.chunk.js": "/pdf-merger/static/js/787.c9b9565a.chunk.js",
+    "index.html": "/pdf-merger/index.html",
+    "main.83b5a670.css.map": "/pdf-merger/static/css/main.83b5a670.css.map",
+    "main.cc699d95.js.map": "/pdf-merger/static/js/main.cc699d95.js.map",
+    "498.a23058f7.chunk.js.map": "/pdf-merger/static/js/498.a23058f7.chunk.js.map",
+    "703.fbbad0fd.chunk.js.map": "/pdf-merger/static/js/703.fbbad0fd.chunk.js.map",
+    "528.1beeb1ea.chunk.js.map": "/pdf-merger/static/js/528.1beeb1ea.chunk.js.map",
+    "119.cd3a9e7e.chunk.js.map": "/pdf-merger/static/js/119.cd3a9e7e.chunk.js.map",
+    "787.c9b9565a.chunk.js.map": "/pdf-merger/static/js/787.c9b9565a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b5a670.css",
+    "static/js/main.cc699d95.js"
+  ]
+}
